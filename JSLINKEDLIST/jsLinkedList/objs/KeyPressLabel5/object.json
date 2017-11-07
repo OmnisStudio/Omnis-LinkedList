@@ -1,0 +1,60 @@
+{
+	"ident": 1012,
+	"order": 10,
+	"objtype": "kComponent",
+	"componentlib": "jsLabel",
+	"componentctrl": "Label Object",
+	"properties": {
+		"alpha": 255,
+		"backalpha": 255,
+		"backcolor": "RGB(255,255,255)",
+		"contextmenu": "",
+		"cssclassname": "",
+		"dataname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablesystemfocus": true,
+		"dropmode": "kAcceptNone",
+		"enabled": false,
+		"events": "",
+		"fieldstyle": "",
+		"font": 1,
+		"fontsize": 10,
+		"fontstyle": "kPlain",
+		"objlink": 0,
+		"preventlayoutanimation": false,
+		"text": "Pressing shift + A populates columns 2 and 3.",
+		"textcolor": "RGB(8,0,0)",
+		"textishtml": false,
+		"tooltip": "",
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true
+	},
+	"layout": {
+		"310": {
+			"left": 110,
+			"top": 335,
+			"width": 190,
+			"height": 45,
+			"align": "kLeftJst",
+			"dragborder": false,
+			"edgefloat": "kEFleftRight",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		},
+		"600": {
+			"left": 240,
+			"top": 270,
+			"width": 340,
+			"height": 25,
+			"align": "kLeftJst",
+			"dragborder": false,
+			"edgefloat": "kEFnone",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		}
+	}
+}

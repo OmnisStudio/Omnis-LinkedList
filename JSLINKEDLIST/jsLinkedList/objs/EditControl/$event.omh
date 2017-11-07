@@ -1,0 +1,3 @@
+On evKeyPress
+	Calculate iKeyList as pKeyList
+	Do iLinkedList.$search(mid(low(iLinkedListCol),1,len(iEditVar))=low(iEditVar))
