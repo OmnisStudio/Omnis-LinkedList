@@ -1,5 +1,5 @@
 # Omnis-LinkedList
-Library shows the 'linked list' where you can link an edit field to a list to filter the data in the list. The app can be viewed here http://tinyurl.com/jsgallery8, click on ‘Linked List’ in the list.
+Library shows the 'linked list' where you can link an edit field to a list to filter the data in the list. The app can be viewed here http://tinyurl.com/jsgallery8, click on ‘Linked List’ in the list. The Linked list is discussed in the tech note: http://www.omnis.net/technotes/tnjc0004.jsp
 
 Requires Omnis Studio 8.1.2 or above.
 
